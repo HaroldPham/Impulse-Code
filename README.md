@@ -1,2 +1,6 @@
 # Impulse-Code
-A small repository filled with small code.
+
+Code created on impulse. Entails:
+- Test Code
+- Random Code
+- Small Functions
